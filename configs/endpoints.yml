@@ -1,0 +1,4 @@
+tracker_store:
+    type: redis
+    url: tracking_server
+    port: 6379

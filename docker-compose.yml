@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+
+  bangla_ner:
+      build:
+        context: .
+        dockerfile: Dockerfile.deploy
+      ports:
+        - "5005:5005"
+
+volumes:
+  cache:

@@ -1,0 +1,15 @@
+# external requirements
+scipy==1.7.3
+python-dotenv>=0.5.1
+click
+notebook
+Sphinx==5.1.1
+coverage
+flake8
+wget
+gdown
+bltk
+bnlp_toolkit
+transformers
+torch
+scikit-learn
