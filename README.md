@@ -77,6 +77,8 @@ Future works:
 * Debugging & improving the code quality on BERT based model
 * Proper validation using a validation set'
 * Experiment using LSTM based shallow models for features
+* Resolve class imbalance as there's a large number of 'O' tags
+* Focus only on PERSON NER
 * etc.
 
 
